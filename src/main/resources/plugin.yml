@@ -1,0 +1,7 @@
+name: TestPlugin
+main: io.github.Tiagotje.TestPlugin
+version: 0.1
+commands:
+  OPME:
+    description: DOESN’T OP the player
+    usage: /<command>
